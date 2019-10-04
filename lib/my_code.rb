@@ -23,6 +23,6 @@ def reduce_to_all_true(source_array)
   
 end
 
-def map_to_negativize(source_array)
+def reduce_to_any_true(source_array)
   
 end
